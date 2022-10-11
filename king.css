@@ -1,0 +1,36 @@
+#king:hover{
+    background-color: orange;
+    width: inherit;
+    border-radius: 0.5em;
+    margin-left:1em ;
+    padding-left:0 !important;
+    padding: right 0!important; ;
+    height: 50vh;
+    transition: all 0.5s;
+    box-shadow: 8px 8px 8px rgb(39, 38, 38);
+
+}
+.king:hover{
+    background-color: orange;
+    width: inherit;
+    border-radius: 0.5em;
+    margin-left:1em ;
+    padding-left:0 !important;
+    padding: right 0!important; ;
+    height: 50vh;
+    transition: all 0.5s ease-in;
+    box-shadow: 8px 8px 8px rgb(39, 38, 38);
+    transform: scale(1.1);
+}
+#king_last:hover{
+    background-color: orange;
+    width: inherit;
+    border-radius: 0.5em;
+    margin-right:1em ;
+    padding-left:0 !important;
+    padding: right 0!important; ;
+    /* height: 50vh; */
+    transition: all 0.5s;
+    box-shadow: 8px 8px 8px rgb(39, 38, 38);
+
+}
